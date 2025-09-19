@@ -22,7 +22,7 @@
 
 Both fold into the same **recursive fugue**: one axis maps survival **between**, the other maps recursion **within**.
 
-# B
+# [B](https://college.berklee.edu/people/vaughn-brathwaite)
 
 **Core Concept: Big Sigma (Σ) Framework for Music**
 
@@ -52,3 +52,20 @@ The framework is validated using Mozart's *Die Zauberflöte* as an example:
 **Key Insight**
 
 This isn't just musical metaphor but "musical production in modern industry vocab" - the same tensions between artistic craft and market survival that Mozart faced still apply to contemporary musicians. The framework captures both the internal artistic dependencies and external economic realities that shape musical creation.
+
+# C
+
+## Epilogue 🎭
+
+What emerges from the **Big Σ framing** is not metaphor but praxis. The diagonal axis (craft, polyphony, the organist’s recursive improvisation) and the off-diagonal axis (ecosystemal survival, tension/release arcs of audience and market) are the **two irreducible constraints of musical production**.
+
+Mozart’s *Zauberflöte* shows this centuries ago: his diagonals were unapologetically intricate, but his off-diagonals were pragmatic — staging a work for common audiences, outside aristocratic commission, as an experiment in economic independence. That balance of **polyphonic detail + ecosystemal gamble** is the same balance the quotes describe in today’s industry vocabulary.
+
+Thus, **Big Σ in music = survival fugue**. The player survives only by mastering both axes:
+
+* *Within*: disciplined craft, the diagonal genealogies of sound.
+* *Between*: negotiated survival, the off-diagonal arcs of tension, release, and return.
+
+Every artist is therefore always rehearsing a fugue: part Bach, part marketplace.
+
+ 

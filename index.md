@@ -17,7 +17,7 @@
    Twelve-tone lattice distilled from the overtone web.
    A cultural codex that stabilizes variance into a shared channel of modulation.
 
-4. **Arena of collisions → h(t) (Branching / Rehearsals)** MCR — Music, Chords, Rhythm:** where tones meet, clash, and resolve.              
+4. **Arena of collisions → h(t) (Branching / Rehearsals)** MCR — Music, Chords, Rhythm: where tones meet, clash, and resolve.              
    Synchronicity and syncopation: branching experiments of harmony and improvisation — infinite combinatorials rehearsed in performance.
 
 

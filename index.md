@@ -17,9 +17,9 @@
    Twelve-tone lattice distilled from the overtone web.
    A cultural codex that stabilizes variance into a shared channel of modulation.
 
-4. **Arena of collisions → h(t) (Branching / Rehearsals)**
-   **MCR — Music, Chords, Rhythm:** where tones meet, clash, and resolve.
-   Synchronicity and syncopation: branching experiments of harmony and improvisation, rehearsed in performance.
+4. **Arena of collisions → h(t) (Branching / Rehearsals)** MCR — Music, Chords, Rhythm:** where tones meet, clash, and resolve.              
+   Synchronicity and syncopation: branching experiments of harmony and improvisation — infinite combinatorials rehearsed in performance.
+
 
 5. **Ledger → ΔS (Fruit / Posterior)**
    What survives: embodied memory, scores, grooves, repertoires.
@@ -82,7 +82,7 @@
 > **“Birth of Tragedy out of the Spirit of Music” is the claim that *all cultural fruit (ΔS) must be traced back through collisions (h(t)), compression (Σ), grounding (θ), to the entropic hum (θ′) of music itself.***
 
  
-
+# 03
 
 <head>
   <meta charset="utf-8" />

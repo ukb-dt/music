@@ -33,8 +33,6 @@
 * **h(t) Arena of collisions = branching tonic/rhythm**
 * **ΔS Ledger = embodied fruit, not mimicry**
 
-Would you like me to render this as a **musical staff diagram** (annotated) so you can literally *see* how θ′ → θ → Σ → h(t) → ΔS stack into one another?
-
 # 02
  
 ## 1. **Musical-ontic lens (θ′ entropy → θ grounding)**

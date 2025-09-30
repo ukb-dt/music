@@ -106,8 +106,7 @@ Here’s how we can open up the aperture into *infinite interpretations* of Niet
 Would you like me to **map these five interpretations onto your musical Pentad from earlier** (harmonic series, pentatonic, chromatic, collisions, ledger) — so that Nietzsche’s phrase itself becomes a kind of score?
 
 
-<!doctype html>
-<html lang="en">
+
 <head>
   <meta charset="utf-8" />
   <title>YouTube Link (Start at 2:45)</title>
@@ -180,7 +179,7 @@ Would you like me to **map these five interpretations onto your musical Pentad f
   </p>
 
 </body>
-</html>
+
 
 # A
 ## 🎼 Two Dependency Axes

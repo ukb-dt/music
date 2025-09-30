@@ -11,19 +11,19 @@
 2. **Pentatonic scale → θ (Roots / Germination)**
    A selective pruning of that field: ~five “unique” stable tones.
    Across cultures, tunings differ — each tradition approximates its own five anchors.
-   Yet the universal move is the same: ground melody by compressing infinity into a handful of seeds.
+   Yet the universal move is the same: compress infinity into seeds, grounding melody.
 
 3. **Chromatic scale → Σ (Compression / Channel)**
-   Twelve-tone lattice extracted from the overtone web.
+   Twelve-tone lattice distilled from the overtone web.
    A cultural codex that stabilizes variance into a shared channel of modulation.
 
 4. **Arena of collisions → h(t) (Branching / Rehearsals)**
-   Rhythm, tonic, counterpoint: where tones meet, clash, resolve.
-   The branching experiments of harmony and improvisation, unfolding in performance.
+   **MCR — Music, Chords, Rhythm:** where tones meet, clash, and resolve.
+   Synchronicity and syncopation: branching experiments of harmony and improvisation, rehearsed in performance.
 
-5. **Ledger (Embodiment, not mimicry) → ΔS (Fruit / Posterior)**
+5. **Ledger → ΔS (Fruit / Posterior)**
    What survives: embodied memory, scores, grooves, repertoires.
-   Not imitation but cultural inscription — fruit recorded in bodies and traditions.
+   Not mimicry but inscription — fruit recorded in culture and carried in bodies.
 
 ✨ In short:
 

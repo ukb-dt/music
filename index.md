@@ -4,7 +4,7 @@
 
 ### 🎼 Musical Pentad Ladder
 
-1. **Harmonic series → θ′ (Entropy / Variance)**
+1. **Harmonic series → θ′ ([Entropy](https://en.wikipedia.org/wiki/Fourier_transform) / Variance)**
    The overtone field: infinite, aperiodic scatter given by nature.
    The raw entropic baseline from which all tonalities sprout.
 
